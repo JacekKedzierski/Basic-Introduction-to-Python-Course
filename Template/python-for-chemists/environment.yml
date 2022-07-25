@@ -1,0 +1,11 @@
+name: introductiontopython
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.8
+  - jupyter
+  - matplotlib
+  - numpy
+  - pandas
+  - seaborn
+  - rdkit
