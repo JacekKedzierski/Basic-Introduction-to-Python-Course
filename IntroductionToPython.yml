@@ -159,4 +159,4 @@ dependencies:
   - zipp=3.8.0=pyhd8ed1ab_0
   - zlib=1.2.12=h7f8727e_2
   - zstd=1.5.2=ha4553b6_0
-prefix: /home/jacek/Install/miniconda3/envs/IntroToPython
+prefix: /home/florian/anaconda3/envs/IntroToPython
