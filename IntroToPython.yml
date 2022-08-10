@@ -1,7 +1,7 @@
 name: IntroToPython
 channels:
+  - anaconda
   - conda-forge
-  - salilab
   - defaults
 dependencies:
   - _libgcc_mutex=0.1=main
@@ -20,8 +20,8 @@ dependencies:
   - brotli=1.0.9=he6710b0_2
   - brotlipy=0.7.0=py310h5764c6d_1004
   - bzip2=1.0.8=h7b6447c_0
-  - ca-certificates=2022.6.15=ha878542_0
-  - certifi=2022.6.15=py310hff52083_0
+  - ca-certificates=2022.4.26=h06a4308_0
+  - certifi=2022.6.15=py310h06a4308_0
   - cffi=1.15.0=py310hd667e15_1
   - charset-normalizer=2.1.0=pyhd8ed1ab_0
   - cryptography=35.0.0=py310h685ca39_2
@@ -102,9 +102,9 @@ dependencies:
   - numexpr=2.8.3=py310hcea2de6_0
   - numpy=1.22.3=py310hfa59a62_0
   - numpy-base=1.22.3=py310h9585f30_0
-  - openssl=1.1.1q=h7f8727e_0
+  - openssl=1.1.1o=h7f8727e_0
   - packaging=21.3=pyhd3eb1b0_0
-  - pandas=1.4.3=py310h6a678d5_0
+  - pandas=1.4.2=py310h295c915_0
   - pandoc=2.18=ha770c72_0
   - pandocfilters=1.5.0=pyhd8ed1ab_0
   - parso=0.8.3=pyhd3eb1b0_0
