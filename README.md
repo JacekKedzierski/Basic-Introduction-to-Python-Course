@@ -1,4 +1,3 @@
-# IntroToPython
 # Basic Introduction to Python Course
 
 ## Overview
